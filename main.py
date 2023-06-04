@@ -1,7 +1,7 @@
 import os, sys, shutil, traceback, time
 import config
 
-try:
+try: 
   import telebot
   from telebot import types
   from PIL import Image
